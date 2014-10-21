@@ -1,0 +1,25 @@
+{
+  "name": "webhooks",
+  "version": "1.0.0",
+  "description": "webhooks for github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:weekeight/webhooks"
+  },
+  "keywords": [
+    "webhooks"
+  ],
+  "author": "weekeight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekeight/webhooks/issues"
+  },
+  "homepage": "https://github.com/weekeight/webhooks",
+  "dependencies": {
+    "express": "^4.9.8"
+  }
+}
